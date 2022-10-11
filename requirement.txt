@@ -1,0 +1,7 @@
+cv2
+twilio
+numpy
+matplotlib
+tensorflow
+IPython.display
+keras
